@@ -2,10 +2,10 @@
 
 ## Repository material (spanish)
 
-`src: source code used on videos`
+`src: custom soruce code material`
 
 
-`ppts: slides of course`
+`ppts: course slides`
 
 
 `videos: course videos content`
