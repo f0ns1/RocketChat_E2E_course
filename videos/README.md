@@ -7,4 +7,5 @@
 5. Rocketchat_e2e_hacking(I):https://youtu.be/1wmtF2Hucwo
 6. Rocketchat_e2e_hacking (II): https://youtu.be/zXL_vp7zAnI
 7. Rocketchat_e2e_Hacking_III: https://youtu.be/MFlGCR_lHCA
+8. Rocketchat_e2e_Hacking(IV): https://youtu.be/MFlGCR_lHCA
 `
